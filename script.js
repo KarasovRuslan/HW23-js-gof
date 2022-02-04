@@ -27,7 +27,7 @@ let rose = {
         }),
         $.subscribe('Billy-Rose', function() {
             console.group('Billy to Rose')
-            console.log('Message > Billy to Rose: Hello Rose this is Billy, I understand you and run away! Godluck!');
+            console.log('Message > Billy to Rose: Hello Rose this is Billy, I understand you and run away! Goodluck!');
             console.groupEnd();
         });
     }
